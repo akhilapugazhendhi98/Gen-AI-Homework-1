@@ -14,7 +14,7 @@ The two industries I keep thinking about are healthcare and telecommunications, 
 
 - In telecommunications, generative AI can monitor network behavior around the clock and describe failures or anomalies in plain language the moment they happen, so engineers can respond before customers even notice something is wrong.
 
-- Across both industries, generative AI can turn mountains of raw data into clear, readable reports and documentation in minutes — work that used to take hours and often got skipped entirely because there simply was not enough time.
+- Across both industries, generative AI can turn mountains of raw data into clear, readable reports and documentation in minutes work that used to take hours and often got skipped entirely because there simply was not enough time.
 
 ## My Edits
 

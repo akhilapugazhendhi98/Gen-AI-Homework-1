@@ -13,6 +13,3 @@ This repository is part of my onboarding assignment where I used Claude Code to 
 3. final_version- used visual code for manual edits
 4. updated README
 5. added video link
-
-## Video Walkthrough
-https://youtu.be/77Zi6lWXlVI
